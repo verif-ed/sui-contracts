@@ -1,17 +1,17 @@
 ## Struct Documentation:
 
-#### LottoPool: 
+#### VerifPool: 
 Describes the structure and purpose of the VerifPool struct, including its fields.
 Function Documentation:
 
-#### create_lotto:
+#### create:
 Detailed comments explain the purpose, parameters, behavior, and usage example.
 
-#### participate_lotto: 
+#### participate: 
 Describes how users can participate by registering into the VerifPool, including parameter details and an example.
 
 #### send_to_winner: 
-Provides details on how to withdraw a specified amount of SUI from the LottoPool and send it to a winner, with example usage.
+Provides details on how to withdraw a specified amount of SUI from the VerifPool and send it to a winner, with example usage.
 
 #### Execution 
 
